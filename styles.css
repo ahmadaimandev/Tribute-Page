@@ -28,6 +28,10 @@ p {
     font-weight: 400;
 }
 
+span {
+    color: green;
+}
+
 #image {
     width: 100%;
     max-width: 1000px;
@@ -43,4 +47,30 @@ p {
     padding: 10px;
     font-size: 15px;
     font-style: italic;
+}
+
+#quote {
+    font-style: italic;
+}
+
+#years {
+    color: black;
+    font-weight: bold;
+}
+
+h3 {
+    font-size: 1.17rem;
+    font-weight: bold;
+    margin: 50px auto;
+    width: 100%;
+    max-width: 600px;
+    display: block;
+}
+
+h2 {
+    font-size: 1.1em;
+}
+a {
+    text-decoration: none;
+    color: rgb(0, 195, 255);
 }
