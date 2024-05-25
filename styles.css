@@ -74,3 +74,7 @@ a {
     text-decoration: none;
     color: rgb(0, 195, 255);
 }
+
+a:hover {
+    color: rgb(0, 119, 255);
+}
