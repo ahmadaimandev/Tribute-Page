@@ -32,6 +32,28 @@ span {
     color: green;
 }
 
+h3 {
+    font-size: 1.17rem;
+    font-weight: bold;
+    margin: 50px auto;
+    width: 100%;
+    max-width: 600px;
+    display: block;
+}
+
+h2 {
+    font-size: 1.1em;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(0, 195, 255);
+}
+
+a:hover {
+    color: rgb(0, 119, 255);
+}
+
 #image {
     width: 100%;
     max-width: 1000px;
@@ -56,25 +78,4 @@ span {
 #years {
     color: black;
     font-weight: bold;
-}
-
-h3 {
-    font-size: 1.17rem;
-    font-weight: bold;
-    margin: 50px auto;
-    width: 100%;
-    max-width: 600px;
-    display: block;
-}
-
-h2 {
-    font-size: 1.1em;
-}
-a {
-    text-decoration: none;
-    color: rgb(0, 195, 255);
-}
-
-a:hover {
-    color: rgb(0, 119, 255);
 }
