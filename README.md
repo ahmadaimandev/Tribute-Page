@@ -1,5 +1,5 @@
 
-![Logo](https://d33wubrfki0l68.cloudfront.net/774b60156d8f103170dc66f3ad10310941114653/da262/img/fcc_secondary_large.svg)
+![Logo](https://d33wubrfki0l68.cloudfront.net/52edd2dfddbec5db22a65dba39951af8fa9bdff6/006f7/img/fcc_primary_large.svg)
 
 
 # Dr.Norman Borlaug Tribute Page
