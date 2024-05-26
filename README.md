@@ -7,7 +7,7 @@
 This project is a part of FreeCodeCamp's Responsive Web Design Certification. It features a tribute page dedicated to Dr. Norman Borlaug, an agronomist and humanitarian who is often credited with saving over a billion lives through his development of high-yielding crop varieties and modern agricultural practices, known as the Green Revolution.
 
 
-## Technologies Used ⚡
+## Technology Used ⚡
 
 **Programming Language:** HTML5, CSS3
 
