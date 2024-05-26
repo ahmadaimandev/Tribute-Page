@@ -53,3 +53,20 @@ p {
     text-align: center;
     font-style: italic;
 }
+
+#timeline-title {
+    text-align: center;
+}
+
+ul {
+    background-color: rgb(255, 255, 255);
+    align-items: center;
+    margin: 0 auto;
+    width: 100%;
+    max-width: 900px;
+    border-radius: 10px;
+}
+
+li {
+    padding: 10px;
+}
