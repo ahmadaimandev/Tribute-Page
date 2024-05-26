@@ -21,6 +21,7 @@ Clone my repository
 ```bash
  git clone https://github.com/ahmadaimandev/Tribute-Page.git
 ```
+ cd Tribute-Page
     
 ## Guidance 📚
 
