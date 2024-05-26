@@ -55,18 +55,25 @@ p {
 }
 
 #timeline-title {
+    margin-top: 50px;
     text-align: center;
+    font-family: "Montserrat", sans-serif;
+    font-style: italic;
+    font-size: 1.3rem
 }
 
-ul {
-    background-color: rgb(255, 255, 255);
+#tribute-info {
+    background-color: #ffffff;
     align-items: center;
-    margin: 0 auto;
-    width: 100%;
+    margin: 10px auto;
+    border-radius: 5px;
+    display: block;
     max-width: 900px;
-    border-radius: 10px;
 }
 
 li {
     padding: 10px;
+    text-align: justify;
+    font-family: "Montserrat", sans-serif;
+    font-size: 15px;
 }
