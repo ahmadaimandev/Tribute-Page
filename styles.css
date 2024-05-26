@@ -4,6 +4,7 @@
 
 #main {
     width: 100%;
+    min-width: 800px;
     background-color: #EEEEEE;
     margin: 20px auto;
 }
@@ -28,5 +29,14 @@ p {
 }
 
 img {
-    margin: auto;
+    margin: 0 auto;
+    max-width: 900px;
+}
+
+#img-caption {
+    margin: 10px;
+    text-align: center;
+    font-size: 0.9em;
+    font-weight: normal;
+    font-style: italic;
 }
