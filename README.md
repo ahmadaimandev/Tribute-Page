@@ -21,7 +21,6 @@ Clone my repository
 ```bash
  git clone https://github.com/ahmadaimandev/Tribute-Page.git
 ```
- cd Tribute-Page
     
 ## Guidance 📚
 
@@ -30,7 +29,7 @@ Clone my repository
 
 ## Screenshots 🖼
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](/preview.png)
 
 
 ## License📃
